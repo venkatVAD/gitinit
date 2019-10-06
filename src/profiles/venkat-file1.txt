@@ -1,4 +1,0 @@
----
-username: venkatVAD
-fullname: venkata prasad
----
